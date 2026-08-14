@@ -5,6 +5,7 @@ import random
 import os
 from datetime import datetime, timezone
 # ===== Settings =====
+#github account btk
 SCROLL_SPEED = 10   # pixels per step (lower = slower & smoother)
 RUN_TIME = 100      # total scroll duration
 LOOPS = 5   
